@@ -1,0 +1,30 @@
+# dependencies
+node_modules/
+
+# env
+.env
+.env.*
+
+# logs
+logs/
+*.log
+npm-debug.log*
+yarn-error.log*
+
+# coverage
+coverage/
+
+# build
+dist/
+build/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Docker volumes
+docker-data/
